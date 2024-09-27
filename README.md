@@ -1,6 +1,7 @@
 "# Perfect-Boat-Placement" 
 
 (Chest) Boats in your world will rotate themselves to align perfectly with the nearest straight or diagonal axis.
+They'll teleport you as well to that axis, so you can enjoy quickly traveling with a straight boat, in the water, or on ice paths for example.
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker.

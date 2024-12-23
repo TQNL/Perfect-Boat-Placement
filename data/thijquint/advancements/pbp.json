@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:oak_boat"
+      "item": "minecraft:oak_boat"
     },
     "title": "Perfect Boat Placement",
     "description": "(Chest) Boats in your world will rotate themselves to be perfectly straight or diagonal",
